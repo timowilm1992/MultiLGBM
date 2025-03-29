@@ -1,0 +1,10 @@
+# IDE
+.vscode/
+.idea/
+
+# Data
+datasets/
+
+# Python
+.venv
+

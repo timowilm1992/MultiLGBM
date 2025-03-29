@@ -1,0 +1,13 @@
+{
+    "dirichlet_param": [0.5, 0.5],
+    "repeat": 10,
+    "regularization": 0.0,
+    "lgbm_params": {
+        "random_seed": 0,
+        "objective": "sinus_linear_loss_mse",
+        "max_depth": 5,
+        "num_leaves":10
+    }
+}
+
+
