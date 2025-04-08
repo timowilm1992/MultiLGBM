@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="NPo1Qyni9AtyxLZRRQQQ6SjlAPgOv3I9DKXumfAvxds" />
 <div align="center">
 
 # MultiLGBM: A simple multi-objective regression example to show how to trade-off objectives on the Pareto front with a single LGBM model.
